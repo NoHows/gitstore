@@ -1,0 +1,26 @@
+.time-item strong {
+    background:#fff;
+    color:#4caf50;
+    line-height:49px;
+    font-size:30px;
+    font-family:Arial;
+    padding:10px 10px;
+    margin-right:0px;
+    margin-left:0px;
+    border-radius:0px;
+}
+#day_show {
+    float:left;
+    line-height:49px;
+    color:#c71c60;
+    font-size:32px;
+    margin:0 10px;
+    font-family:Arial,Helvetica,sans-serif;
+}
+.item-title .unit {
+    background:none;
+    line-height:49px;
+    font-size:24px;
+    padding:0 10px;
+    float:left;
+}
